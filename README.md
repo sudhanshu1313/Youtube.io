@@ -21,7 +21,7 @@
 
   </ul>
 
-<img src="https://github.com/sudhanshu1313/youtube.io/blob/main/YoutubeBnner.png" alt="New User System" width="550" height="350px">
+<img src="https://github.com/sudhanshu1313/youtube.io/blob/main/YoutubeBnner.png" alt="New User System" width="650" height="350px">
 
   
 
