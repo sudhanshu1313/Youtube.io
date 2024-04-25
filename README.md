@@ -2,17 +2,11 @@
  <h2> YouTube Channel </h2>
  
 
-  <hr></hr>
+
 
 
   <p>YouTube channel</p>
-  <h4>Features</h4>
-  <ul>
-    <li>Engaging Tutorials</li>
-    <li>Insightful Content</li>
-    <li>Community Engagement</li>
-    <li>Verification</li>
-  </ul>
+ 
   <h4>Technologies Used</h4>
    <ul>
     <li>HTML</li>
