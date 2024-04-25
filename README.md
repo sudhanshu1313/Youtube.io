@@ -1,7 +1,7 @@
 
  <h2> YouTube Channel </h2>
  
- <h4> Live Demo :- <a href="https://sudhanshu1313.github.io/OTPAuthentication/">OTP Authentication</a> </h4>
+ <h4> Live Demo :- <a href=""> YouTube Channel</a> </h4>
   <hr></hr>
 
 
@@ -21,7 +21,7 @@
 
   </ul>
 
-<img src="https://github.com/sudhanshu1313/youtube.io/blob/main/YoutubeBnner.png" alt="New User System" width="450" height="350px">
+<img src="https://github.com/sudhanshu1313/youtube.io/blob/main/YoutubeBnner.png" alt="New User System" width="550" height="350px">
 
   
 
